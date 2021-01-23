@@ -1,4 +1,4 @@
-## ¡Hola mundo! ( desde :ni: )
+## ¡Hola mundo! (desde 🇳🇮)
 
 Mi nombre es Jimmy Sáenz,
 Soy un ingeniero de software enfocado principalmente en construir productos digitales, especialmente mobile apps 📱, desde el diseño hasta su desarrollo usando una filosofía centrada en usuarios y ágil. Docente y mentor en ocasiones; aprendiz todo el tiempo.
