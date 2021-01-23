@@ -33,8 +33,6 @@ Soy un ingeniero de software enfocado principalmente en construir productos digi
 
 ### 👋 ¡Conversemos!
 
-🐦[twitter/soyjimmysaenz](https://twitter.com/soyjimmysaenz)
-
-✉️ [email](mailto:9k2pyplta@relay.firefox.com)
-
-💼 [linkedin/jsaenzr](https://www.linkedin.com/in/jsaenzr/)
+- [Twitter](https://twitter.com/soyjimmysaenz)
+- [Email](mailto:9k2pyplta@relay.firefox.com)
+- [LinkedIn](https://www.linkedin.com/in/jsaenzr/)
