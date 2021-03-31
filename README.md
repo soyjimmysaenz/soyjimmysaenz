@@ -5,17 +5,15 @@ Soy un ingeniero de software enfocado principalmente en construir productos digi
 
 ### 🧟 Actualmente colaborando en...
 
-- Ingeniero de Software @ Simplified Technologies.
-- Docente horario @ Universidad Centroamericana de Nicaragua.
+- Desarrollador Android @ Sosafe.
+- Mentorship 1:1 para quien quiera empezar en desarrollo móvil.
 
 ### 🏃 ¿Qué estoy haciendo?
 
-- Colaborando en la creación de una plataforma para facilitar la comunicación entre negocios y sus clientes. ¿El Stack?
-    - NodeJS, PostgreSQL y VueJS con [Directus.io](http://directus.io) como Headless CMS.
-    - Flutter para el desarrollo de apps cross-platform.
-- Luchando con [Ionic](https://ionicframework.com/) 2 (si, el dos) para adaptar la [app móvil de Moodle](https://github.com/moodlehq/moodleapp) a un proyecto educativo corporativo.
+- Colaborando en el crecimiento de [Sosafe](https://sosafeapp.com/), una red social de seguridad y colaboración ciudadana.
+- Explorando Jetpack Compose!
+- Aprendiendo "streaming on twitch 101"
 - Colaborando en la Comunidad de [Directus.io](http://directus.io) para ayudar a construir una gran plataforma de gestión de datos OSS.
-- Aprendiendo Vue 3, Bloc (Flutter) y Android Architecture Components Avanzado.
 
 ### 🧰 My Stack
 
