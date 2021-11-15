@@ -1,19 +1,18 @@
 ## ¡Hola mundo! (desde 🇳🇮)
 
 Mi nombre es Jimmy Sáenz,
-Soy un ingeniero de software enfocado principalmente en construir productos digitales, especialmente mobile apps 📱, desde el diseño hasta su desarrollo usando una filosofía centrada en usuarios y ágil. Docente y mentor en ocasiones; aprendiz todo el tiempo.
+Soy un ingeniero de software enfocado en construir productos digitales, especialmente mobile apps 📱, desde el diseño hasta su desarrollo usando una filosofía centrada en usuarios y ágil. Docente y mentor en ocasiones; aprendiz todo el tiempo.
 
 ### 🧟 Actualmente colaborando en...
 
-- Desarrollador Android @ Sosafe.
+- Desarrollador Android @ SOSAFE.
 - Mentorship 1:1 para quien quiera empezar en desarrollo móvil.
 
 ### 🏃 ¿Qué estoy haciendo?
 
-- Colaborando en el crecimiento de [Sosafe](https://sosafeapp.com/), una red social de seguridad y colaboración ciudadana.
-- Explorando Jetpack Compose!
-- Aprendiendo "streaming on twitch 101"
-- Colaborando en la Comunidad de [Directus.io](http://directus.io) para ayudar a construir una gran plataforma de gestión de datos OSS.
+- Colaborando en el crecimiento de [SOSAFE](https://sosafeapp.com/), una red social de seguridad y colaboración ciudadana.
+- Entrando a Jetpack Compose.
+- Aprendiendo por mi cuenta barismo (nivel junior)
 
 ### 🧰 My Stack
 
